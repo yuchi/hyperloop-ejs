@@ -7,6 +7,7 @@
 Use [Package Control][3] to install the `EJS` package.
 
 Then you can simply install this one, searching for `”hyperloop”`.
+If you cannot find it (probably it is not already in the default channel) you can install it by adding `https://github.com/yuchi/hyperloop-ejs` as a repository.
 
 ## License
 
